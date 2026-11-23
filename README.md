@@ -13,6 +13,6 @@ I'm super interested in puzzles and games! here are some related projects I'm pr
 I'm also working on a [larger game](https://github.com/applesarebad/bounce) that I'm hoping to finish by the end of the school year!
 
 You can contact me at 
-- andrewzhang927@gmail.ca
+- andrewzhang927@gmail.com
 - [https://www.linkedin.com/in/andrewzhang927/](https://www.linkedin.com/in/andrewzhang927/)
 
